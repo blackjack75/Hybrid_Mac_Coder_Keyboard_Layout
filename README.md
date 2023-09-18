@@ -1,28 +1,20 @@
 # Hybrid_Mac_Coder_Keyboard_Layout
 
-This is a collection (of one) Hybrid Mac Keyboard layouts to allow more confortable use of US-centric keyboard shortcuts when coding.
-
-## Note, There is currently only a Swiss French Keyboard (at least in this repository) for the moment
-
-## Why invent "yet another layout" ?
-
-It's nothing new it's just both the US & Swiss Keyboard. I only press Caps lock to get access to my european accents when I need to talk to people. The rest of the time I can write code easily.
-
-Do you mix up your fingers when switching from a European keyboard to the US keyboard layout when coding ? I do. I just hate when I press Command+Z instead of Command+Y because I switched to IM to write in two words in French, Spanish or Portuguese and came back to edit with the wrong keyboard and destroyed part of my code.
-
-Turns out there's a tool called Ukulele that lets you edit your Mac Keyboard layout and set it just like you would if computers had been invented elsewhere.
+This is a collection (of one) Hybrid Mac Keyboard layouts to allow more confortable use of US-centric keyboard shortcuts when coding. _At the moment only Swiss French keyboard exists._
 
 ## How it works
 
-Basically when Caps Lock is off this is _nearly_ a Swiss French keyboard (1).
+It starts like a Swiss French Keyboard except _{} [] ;'\,./_ keys on the rights are easy to access just like on US keyboards instead of accented characters usually there. You only need to turn on Caps lock to get access to my european accents for when you need to talk to people instead of an IDE. The Z and Y are still in the same QWERTZ position because I see no advantage in switching to just confuse my Command+Z usage.
 
-When Caps Lock is on then you get all the nice little easy to type keys on the right like {} [] \ / without needing complex modifiers European layout impose. This makes typing code, using VIM or other Terminal apps so much easier to use. You're always one key away from writing french poetry or code.
+You're always one key away from writing either french poetry or code.
 
-For example, if I type : or : it always work because I have the key both on the Swiss and US position. Now NeoVIM just always works even if I am doing it wrong.
+Some keys are intentionally duplicated because I always mixed them up switching from US to Swiss QWERTZ keyboard, so I decided the solution was to fix the keyboard, not me.
+
+For example, if I type : or : it always work because I have the key both on the Swiss and US position. Now NeoVIM just always works even if I am doing it wrong. I did leave the $ in place in Swiss mode because I can't sacrifice my shift+C to write en Fran*ç*ais. And could not find a way to make just this switch when Caps Lock is ON.
 
 ## INSTALLING
 
-Copy this .keylayout file in your home directory in ~/Library/KeyBoard Layouts and select it from "Others" in the input sources in Preferences. Sometimes you may need to logout or even reboot for the system to notice an update in there.
+Copy this .keylayout file in your home directory in "~/Library/Keyboard Layouts" and select it from "Others" in the input sources in Preferences. Sometimes you may need to logout or even reboot for the system to notice an update in there.
 
 ## (1) WORK IN PROGRESS
 
