@@ -2,11 +2,6 @@
 
 This is a collection (of one) Hybrid Mac Keyboard layouts to allow more confortable use of US-centric keyboard shortcuts when coding. _At the moment only Swiss French keyboard exists._
 
-## How the code / swiss french keyboard looks
-
-![Coder Mode](/shots/shot-frCH-coder-mode.png)
-![fr_CH Mode - Caps Lock ON](/shots/shot-frCH-capslock-french-mode.png)
-
 ## How it works : Code Mode & Swiss Mode
 
 Essentially it starts in _code mode_ which is like a Swiss French Keyboard except _{} [] ;'\,./_ keys on the right are easy to access just like on US keyboards instead of accented characters. You only need to turn on _Caps lock_ to get access to your latin/german accents for when you need to talk to people instead of an IDE.
@@ -26,6 +21,11 @@ Some keys are intentionally duplicated because I always mixed them up switching 
 ## INSTALLING
 
 Copy this .keylayout file in your home directory in "~/Library/Keyboard Layouts" and select it from "Others" in the input sources in Preferences. Sometimes you may need to logout or even reboot for the system to notice an update in there.
+
+## How the code / swiss french keyboard looks
+
+![Coder Mode](/shots/shot-frCH-coder-mode.png)
+![fr_CH Mode - Caps Lock ON](/shots/shot-frCH-capslock-french-mode.png)
 
 ## (1) WORK IN PROGRESS
 
