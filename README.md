@@ -2,15 +2,19 @@
 
 This is a collection (of one) Hybrid Mac Keyboard layouts to allow more confortable use of US-centric keyboard shortcuts when coding. _At the moment only Swiss French keyboard exists._
 
-## How it works
+## How it works : Code Mode & Swiss Mode
 
-It starts like a Swiss French Keyboard except _{} [] ;'\,./_ keys on the rights are easy to access just like on US keyboards instead of accented characters usually there. You only need to turn on Caps lock to get access to my european accents for when you need to talk to people instead of an IDE. The Z and Y are still in the same QWERTZ position because I see no advantage in switching to just confuse my Command+Z usage.
+Essentially it starts in _code mode_ which is like a Swiss French Keyboard except _{} [] ;'\,./_ keys on the right are easy to access just like on US keyboards instead of accented characters. You only need to turn on _Caps lock_ to get access to your latin/german accents for when you need to talk to people instead of an IDE.
 
 You're always one key away from writing either french poetry or code.
 
 Some keys are intentionally duplicated because I always mixed them up switching from US to Swiss QWERTZ keyboard, so I decided the solution was to fix the keyboard, not me.
 
-For example, if I type : or : it always work because I have the key both on the Swiss and US position. Now NeoVIM just always works even if I am doing it wrong. I did leave the $ in place in Swiss mode because I can't sacrifice my shift+C to write en Fran*ç*ais. And could not find a way to make just this switch when Caps Lock is ON.
+- _:_ For example, if I type : or ; it always works because I have the keys both on the Swiss and US positions. Now NeoVIM just always works even if I am doing it wrong. Can't stress how _unfrustrating_ this is for me!
+
+- _$_ I did leave the $ in the Swiss location in Code mode because I can't sacrifice my shift+4 to write en Fran*ç*ais and could not find a way to make just this switch between _$_ and _ç_ when Caps Lock is ON. You can also press Option+\ in Code mode to use it without switching to Swiss mode (Caps lock is slower for just one key).
+
+- The _Z_ and _Y_ are still in the same QWERTZ position in both modes because I see no advantage in switching to just confuse my Command+Z usage. This was one of my top motivations to find a way to stop switching from QWERTZ to QWERTY.
 
 ## INSTALLING
 
