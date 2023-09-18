@@ -16,6 +16,8 @@ Some keys are intentionally duplicated because I always mixed them up switching 
 
 - The _Z_ and _Y_ are still in the same QWERTZ position in both modes because I see no advantage in switching to just confuse my Command+Z usage. This was one of my top motivations to find a way to stop switching from QWERTZ to QWERTY.
 
+- alt + o / a / n  produce _õÕ_, _ã_ _Ã_, _ñ_ _Ñ_  - I need this to type in Spanish & Portuguese. It's not the standard way on a swiss keyboard (you're supposed to use ~ + the letter) but it'll make my life easier.
+
 ## INSTALLING
 
 Copy this .keylayout file in your home directory in "~/Library/Keyboard Layouts" and select it from "Others" in the input sources in Preferences. Sometimes you may need to logout or even reboot for the system to notice an update in there.
