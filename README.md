@@ -2,6 +2,10 @@
 
 This is a collection (of one) Hybrid Mac Keyboard layouts to allow more confortable use of US-centric keyboard shortcuts when coding. _At the moment only Swiss French keyboard exists._
 
+![Coder Mode](https://github.com/blackjack75/Hybrid_Mac_Coder_Keyboard_Layout/raw/master/shots/shot-frCH-coder-mode.png)
+
+![fr_CH Mode - Caps Lock ON](https://github.com/blackjack75/Hybrid_Mac_Coder_Keyboard_Layout/raw/master/shots/shot-frCH-capslock-french-mode.png)
+
 ## How it works : Code Mode & Swiss Mode
 
 Essentially it starts in _code mode_ which is like a Swiss French Keyboard except _{} [] ;'\,./_ keys on the right are easy to access just like on US keyboards instead of accented characters. You only need to turn on _Caps lock_ to get access to your latin/german accents for when you need to talk to people instead of an IDE.
@@ -16,7 +20,7 @@ Some keys are intentionally duplicated because I always mixed them up switching 
 
 - The _Z_ and _Y_ are still in the same QWERTZ position in both modes because I see no advantage in switching to just confuse my Command+Z usage. This was one of my top motivations to find a way to stop switching from QWERTZ to QWERTY.
 
-- alt + o / a / n  produce _õÕ_, _ã_ _Ã_, _ñ_ _Ñ_  - I need this to type in Spanish & Portuguese. It's not the standard way on a swiss keyboard (you're supposed to use ~ + the letter) but it'll make my life easier.
+- alt + o / a / n produce _õÕ_, _ã_ _Ã_, _ñ_ _Ñ_ - I need this to type in Spanish & Portuguese. It's not the standard way on a swiss keyboard (you're supposed to use ~ + the letter) but it'll make my life easier.
 
 ## INSTALLING
 
