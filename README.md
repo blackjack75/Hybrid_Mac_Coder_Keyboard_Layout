@@ -1,6 +1,6 @@
 # Hybrid_Mac_Coder_Keyboard_Layout
 
-This is a collection (of one) Hybrid Mac Keyboard layouts to allow more confortable use of US-centric keyboard shortcuts when coding. _At the moment only Swiss French keyboard exists._
+This is a collection (currently of one) Hybrid Mac Keyboard layouts to allow more confortable use of US-centric keyboard shortcuts when coding. _At the moment only Swiss French keyboard exists._
 
 ## How it works : Code Mode & Swiss Mode
 
