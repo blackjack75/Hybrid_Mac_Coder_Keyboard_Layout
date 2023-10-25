@@ -1,20 +1,16 @@
 # Hybrid_Mac_Coder_Keyboard_Layout
 
-This is a collection (currently of one) Hybrid Mac Keyboard layouts to allow more confortable use of US-centric keyboard shortcuts when coding. _At the moment only Swiss French keyboard exists._
+This is a collection (currently of one) Hybrid Mac Keyboard layouts to allow more confortable use of US-centric keyboard shortcuts when coding. _At the moment only my version exists. The previous version was closer to a Swiss French QWERTZ keyboard but the latest version switched to full QWERTY because I didn't want to switch Z and Y constantly._
 
-## How it works : Code Mode & Swiss Mode
+This is a work in progress. I adapt it regularly to match *my* writing habits. Which means someone who has used painfully a Swiss French keyboard for years and regularly switched to US QWERTY for code and terminal commands. It's probably not the right thing for you unless you were born in Switzerland, moved to Brazil and like to write code.
 
-Essentially it starts in _code mode_ which is like a Swiss French Keyboard except _{} [] ;'\,./_ keys on the right are easy to access just like on US keyboards instead of accented characters. You only need to turn on _Caps lock_ to get access to your latin/german accents for when you need to talk to people instead of an IDE.
+# How it works : Code Mode & Latin (mainly French/Spanish/Portuguese) Mode
 
-You're always one key away from writing either french poetry or code.
+Essentially it starts in _code mode_ which is *NEARLY*e a US QWERTY keyboard with  _{} [] ;'\,./_ keys on the right and special signs on the top line above numbers being also ~ !@#$%^&*() . You only need to turn on _Caps lock_ to get access to your latin accents for when you need to talk to people instead of an IDE. I said nearly because some keys are in position of both a swiss and american keys. At least at least I stop mistaking both.
 
-Some keys are intentionally duplicated because I always mixed them up switching from US to Swiss QWERTZ keyboard, so I decided the solution was to fix the keyboard, not me.
+Other than that. You're always one key away from writing either french poetry or code.
 
 - _:_ For example, if I type : or ; it always works because I have the keys both on the Swiss and US positions. Now NeoVIM just always works even if I am doing it wrong. Can't stress how _unfrustrating_ this is for me!
-
-- _$_ I did leave the $ in the Swiss location in Code mode because I can't sacrifice my shift+4 to write en Fran*ç*ais and could not find a way to make just this switch between _$_ and _ç_ when Caps Lock is ON. You can also press Option+\ in Code mode to use it without switching to Swiss mode (Caps lock is slower for just one key).
-
-- The _Z_ and _Y_ are still in the same QWERTZ position in both modes because I see no advantage in switching to just confuse my Command+Z usage. This was one of my top motivations to find a way to stop switching from QWERTZ to QWERTY.
 
 - alt + o / a / n produce _õÕ_, _ã_ _Ã_, _ñ_ _Ñ_ - I need this to type in Spanish & Portuguese. It's not the standard way on a swiss keyboard (you're supposed to use ~ + the letter) but it'll make my life easier.
 
